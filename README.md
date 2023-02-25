@@ -1,1 +1,3 @@
-# Autonomous-Remote-Control-Mecanum-Wheel-Tesla-Roadster
+# Autonomous/RC Mecanum Wheel Tesla Roadster
+
+![tesla](tesla.jpeg)
